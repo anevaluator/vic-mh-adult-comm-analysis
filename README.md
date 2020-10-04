@@ -17,8 +17,7 @@ The purpose of the analysis was to explore the available mental health performan
 
 ## Usage
 
-1. Run the `data-import.R` script to read in the DASS-42 csv data file.
-2. Run the `eda.R` script to undertake the exploratory analysis. There is a line in this script that can alternatively run the data import stage for you if needed:
+Run the `mh-comm-analysis.R`. This is the only script needed to run the analysis at this stage. Subject to change.
 
 ## Disclaimer
 
